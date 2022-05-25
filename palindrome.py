@@ -1,3 +1,8 @@
+# Python program to check
+# if a number passed is palindrome
+# or not
+# Palindrome: A palindromic number is a number (such as 16461) that remains the same when its digits are reversed
+
 def isPalindrome(num):
     if num < 0:
         return False
